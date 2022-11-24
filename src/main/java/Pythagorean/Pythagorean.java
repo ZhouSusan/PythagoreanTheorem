@@ -1,10 +1,10 @@
 package Pythagorean;
 
-public class PythagoreanClass {
+public class Pythagorean {
     private double a;
     private double b;
 
-    public PythagoreanClass(double a, double b) {
+    public Pythagorean(double a, double b) {
         this.a = a*a;
         this.b = b*b;
     }
