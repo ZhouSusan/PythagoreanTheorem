@@ -9,7 +9,7 @@ public class Pythagorean {
         this.b = b*b;
     }
 
-    public double calculatePythagorean() {
+    public double calculateHypotenuse() {
         double c = Math.sqrt(this.a + this.b);
         return c;
     }
